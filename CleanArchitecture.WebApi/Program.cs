@@ -8,6 +8,7 @@ using CleanArchitecture.WebApi.Middleware;
 using CleanArchitecture.Domain.Repositories;
 
 using FluentValidation;
+using GenericRepository;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 
